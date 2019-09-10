@@ -1,0 +1,47 @@
+adaptive-icon;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.v7.widget.CardView;obj\Debug\80\res\layout\activity_connect.xml
+android.support.v7.widget.CardView;obj\Debug\80\res\layout\activity_function.xml
+android.support.v7.widget.CardView;obj\Debug\80\res\layout\activity_main.xml
+android.support.v7.widget.CardView;obj\Debug\80\res\layout\activity_register.xml
+background;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\80\res\layout\activity_connect.xml
+Button;obj\Debug\80\res\layout\activity_function.xml
+Button;obj\Debug\80\res\layout\activity_main.xml
+Button;obj\Debug\80\res\layout\activity_register.xml
+cache-path;D:\ProgramData\Visual Studio 2019\Projects\SmartLED\SmartLED\obj\Debug\80\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CheckBox;obj\Debug\80\res\layout\activity_main.xml
+color;obj\Debug\80\res\values\colors.xml
+color;obj\Debug\80\res\values\ic_launcher_background.xml
+EditText;obj\Debug\80\res\layout\activity_connect.xml
+EditText;obj\Debug\80\res\layout\activity_main.xml
+EditText;obj\Debug\80\res\layout\activity_register.xml
+external-cache-path;D:\ProgramData\Visual Studio 2019\Projects\SmartLED\SmartLED\obj\Debug\80\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\ProgramData\Visual Studio 2019\Projects\SmartLED\SmartLED\obj\Debug\80\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\80\res\mipmap-anydpi-v26\ic_launcher_round.xml
+GridLayout;obj\Debug\80\res\layout\activity_connect.xml
+GridLayout;obj\Debug\80\res\layout\activity_function.xml
+GridLayout;obj\Debug\80\res\layout\activity_main.xml
+item;obj\Debug\80\res\values\strings.xml
+item;obj\Debug\80\res\values\styles.xml
+LinearLayout;obj\Debug\80\res\layout\activity_connect.xml
+LinearLayout;obj\Debug\80\res\layout\activity_function.xml
+LinearLayout;obj\Debug\80\res\layout\activity_main.xml
+LinearLayout;obj\Debug\80\res\layout\activity_register.xml
+paths;D:\ProgramData\Visual Studio 2019\Projects\SmartLED\SmartLED\obj\Debug\80\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\80\res\values\colors.xml
+resources;obj\Debug\80\res\values\ic_launcher_background.xml
+resources;obj\Debug\80\res\values\strings.xml
+resources;obj\Debug\80\res\values\styles.xml
+ScrollView;obj\Debug\80\res\layout\activity_function.xml
+SeekBar;obj\Debug\80\res\layout\activity_function.xml
+Spinner;obj\Debug\80\res\layout\activity_function.xml
+string;obj\Debug\80\res\values\strings.xml
+string-array;obj\Debug\80\res\values\strings.xml
+style;obj\Debug\80\res\values\styles.xml
+TextView;obj\Debug\80\res\layout\activity_connect.xml
+TextView;obj\Debug\80\res\layout\activity_function.xml
+TextView;obj\Debug\80\res\layout\activity_main.xml
+TextView;obj\Debug\80\res\layout\activity_register.xml

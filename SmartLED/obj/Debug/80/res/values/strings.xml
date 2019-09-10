@@ -1,0 +1,1 @@
+<resources><string name="app_name">SmartLED</string><string name="action_settings">Settings</string><string-array name="LED"><item>LED1</item><item>LED2</item><item>LED3</item></string-array></resources>

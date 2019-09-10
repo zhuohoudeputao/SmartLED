@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLED", "SmartLED\SmartLED.csproj", "{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F72582-6816-4ABA-8AF2-A8E22EED0FCC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061B9D2F-F277-4F82-8179-1CE0D69D8D44}
+	EndGlobalSection
+EndGlobal
